@@ -4,11 +4,38 @@
   
     
     <entry>
+      <title>HKC T2752Q显示简单评测</title>
+      <link href="/posts/435d3cfa.html"/>
+      <url>/posts/435d3cfa.html</url>
+      
+        <content type="html"><![CDATA[<div class="note info modern"><p>显示器为自费购买，没有收钱（主要是想换显示器了，顺便水一篇文章）。<br>并且由于批次不同，具体效果可能因人而异。<br>希望能给您的购买一些帮助！</p></div><h1 id="参数"><a href="#参数" class="headerlink" title="参数"></a>参数</h1><p><img src="http://www.szhk.com.cn/upload/images/202304/16812048102838.jpg" alt=""><br>图源：<a href="http://www.szhk.com.cn/index.php?case=archive&amp;act=show&amp;aid=527">HKC官网</a></p><h1 id="外观"><a href="#外观" class="headerlink" title="外观"></a>外观</h1><p><img src="https://pic3.zhimg.com/v2-8f9123da942b61bba40d948e031ec52e_b.webp?consumer=ZHI_MENG" alt=""><br>中规中矩，不是爪形底座好评。不过，作为办公显示器，你要什么酷炫的外观。</p><h1 id="接口"><a href="#接口" class="headerlink" title="接口"></a>接口</h1><p><img src="https://pic3.zhimg.com/v2-5ff8549a848b00ea43d51379d467f9e2_b.webp?consumer=ZHI_MENG" alt=""><br>一个HDMI，一个DP，没什么可以多说的。</p><h1 id="OSD菜单"><a href="#OSD菜单" class="headerlink" title="OSD菜单"></a>OSD菜单</h1><p>网上有人说OSD菜单不好看，可我觉得还不错。（<br>但是，是按键式的，不是摇杆，并且按的时候屏幕会乱晃。</p><h1 id="显示效果"><a href="#显示效果" class="headerlink" title="显示效果"></a>显示效果</h1><h2 id="拖影"><a href="#拖影" class="headerlink" title="拖影"></a>拖影</h2><p>日常使用，感知不强，但仔细看还是能看到拖影的。（不过没有人会没事盯着看拖影的罢）</p><h2 id="色彩表现"><a href="#色彩表现" class="headerlink" title="色彩表现"></a>色彩表现</h2><p>由于没有校色仪，无法得到准确数据，全部都是我个人的主观感受，并且其拥有sRGB缩限（好评），所以处特殊说明外全部都是在sRGB模式下的效果。（主要是没有支持广色域的Mac）<br>首先，和之前的垃圾显示器对比，显然要好很多，但是和拥有广色域的手机相比还是差远了。</p><h2 id="电子书模式"><a href="#电子书模式" class="headerlink" title="电子书模式"></a>电子书模式</h2><p>电子书模式，会把屏幕显示内容变为黑白的（听说字体会增粗和变黑，但我没看出来），对于学生党和办公党长时间看文字还是挺好的。<br>但，调至sRGB模式后，通过快捷键切换至电子书模式后再切回来会变成标准色温，需手动调回sRGB。</p><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>对于一个699的显示器，参数还很亮眼，如果家里像我一样用着垃圾TN屏，想换显示器且预算不高的还是值得入手。（富哥建议直接上高端OLED）</p><h1 id="引用资料"><a href="#引用资料" class="headerlink" title="引用资料"></a>引用资料</h1><p>其中有两张带有「知乎」水印的图片来自<a href="https://www.zhihu.com/tardis/zm/art/560113921?source_id=1005">知乎上的一篇评测</a>（我其实是不想拍了，就直接用现成的了），侵删。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 评测 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 显示器 </tag>
+            
+            <tag> 评测 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>网站更新</title>
       <link href="/posts/9b40dd1d.html"/>
       <url>/posts/9b40dd1d.html</url>
       
-        <content type="html"><![CDATA[<h1 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h1><div class="timeline blue]"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>更新日志</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2023.1.14</p></div></div><div class='timeline-item-content'><p>将博客托管至Github &amp; Vercel，并绑定域名，进入测试期，未对外公布域名。</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2023.1.16</p></div></div><div class='timeline-item-content'><ol><li>新增了一些新功能</li><li>美化了一下博客</li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2023.1.21-22</p></div></div><div class='timeline-item-content'><ol><li>添加了一些好玩的东西</li><li>修改了博客的样式，使博客更漂亮</li><li>移除了him (doge)</li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2023.1.30</p></div></div><div class='timeline-item-content'><p>开学力，动不了电脑了，随缘更新罢……</p></div></div></div><p>最后，非常感谢<a href="https://www.fomal.cc/">Fomalhaut🥝</a>的教程！！！</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h1><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>更新日志</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2023.1.14</p></div></div><div class='timeline-item-content'><p>将博客托管至Github &amp; Vercel，并绑定域名，进入测试期，未对外公布域名。</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2023.1.16</p></div></div><div class='timeline-item-content'><ol><li>新增了一些新功能</li><li>美化了一下博客</li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2023.1.21-22</p></div></div><div class='timeline-item-content'><ol><li>添加了一些好玩的东西</li><li>修改了博客的样式，使博客更漂亮</li><li>移除了him (doge)</li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2023.1.30</p></div></div><div class='timeline-item-content'><p>开学力，动不了电脑了，随缘更新罢……</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2023.7.17</p></div></div><div class='timeline-item-content'><p>终于放暑假了，继续更新<br>至此，本博客进入常态化运营阶段，今后可能不会有一些大的更新<br>（发布文章，更换背景图片不会在此说明）</p></div></div></div><p>最后，非常感谢<a href="https://www.fomal.cc/">Fomalhaut🥝</a>的教程！！！</p>]]></content>
       
       
       <categories>
